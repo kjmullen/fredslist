@@ -34,7 +34,7 @@ Plan out and execute on the following features:
 
 ### Front End
 For this assignment you will have 2 options:
-1. You will be allowed to use the enclosed theme to make your site look professional.  Obviously, this is not the tact taken by the source material.
+1. You will be allowed to use the [this theme](https://www.dropbox.com/s/e9z8jt3ldugh87l/classified-ads.zip?dl=0) to make your site look professional.  Obviously, this is not the tact taken by the source material.
 2. You will create a front end using bootstrap/flexbox that will mirror what the original site delivered.
 
 ### Deployment
